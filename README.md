@@ -38,3 +38,11 @@ Modify the same job which created in part-01 and add deployment steps.
 
 Save and run the job now.
 
+
+### Port-03 : Continuous Integration & Continuous Deployment (CI/CD)
+Now job is running fine but to make this as Continuous Integration and Continuous Deployment Tod do that go back and modify job as below. 
+  - Build Triggers
+    - Poll SCM
+      - schedule `*/2 * * * *`
+
+Save the job and modify the code in GitHub. Then you could see your job get trigger a build without any manual intervention.
