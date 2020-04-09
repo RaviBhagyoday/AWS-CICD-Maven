@@ -34,13 +34,13 @@ input:hover, input:focus {
 
 /* line 18, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_common.scss */
 .section_padding {
-  padding: 140px 0px;
+  padding: 40px 0px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 18, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_common.scss */
   .section_padding {
-    padding: 80px 0px;
+    padding: 20px 0px;
   }
 }
 
@@ -2563,15 +2563,15 @@ ul {
   display: block;
   margin-top: 18px;
   border: 0px solid transparent;
-  background-color: #e614ff;
+  background-color: #458dcb;
 }
 
 /* line 67, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
 .dropdown .dropdown-menu .dropdown-item {
   font-size: 14px;
   padding: 8px 20px !important;
-  color: #fff !important;
-  background-color: #e614ff;
+  color: black !important;
+  background-color: #fff;
 }
 
 /* line 77, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
@@ -2589,13 +2589,13 @@ ul {
   position: fixed;
   z-index: 9999 !important;
   width: 100%;
-  background-color: #e614ff;
+  background-color: #fff;
   top: 0;
 }
 
 /* line 94, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
 .menu_fixed .main-menu-item ul li a {
-  color: #fff !important;
+  color: black !important;
 }
 
 /* line 98, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
@@ -2607,7 +2607,7 @@ ul {
   /* line 103, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
   .navbar-light .navbar-toggler {
     border-color: transparent;
-    background-color: #ff1481;
+    background-color: #458dcb;
   }
   /* line 108, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
   .navbar-collapse {
@@ -2660,7 +2660,7 @@ ul {
   /* line 158, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
   .navbar-light .navbar-toggler {
     border-color: transparent;
-    background-color: #ff1481;
+    background-color: #458dcb;
   }
   /* line 163, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
   .navbar-collapse {
@@ -2705,7 +2705,7 @@ ul {
   /* line 207, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
   .navbar-light .navbar-toggler {
     border-color: transparent;
-    background-color: #ff1481;
+    background-color: #458dcb;
   }
   /* line 212, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_menu.scss */
   .navbar-collapse {
@@ -3383,7 +3383,7 @@ ul {
     font-size: 25px;
     left: 12px;
     line-height: 35px;
-    color: #fff;
+    color: black;
   }
 }
 
@@ -3395,7 +3395,7 @@ ul {
     font-size: 25px;
     left: 12px;
     line-height: 35px;
-    color: #fff;
+    color: black;
   }
 }
 
@@ -5630,7 +5630,7 @@ ul {
 /* line 83, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_team.scss */
 .team_member_section .single_team_member .single_team_text .team_member_social_icon a {
   color: #abb2ba;
-  margin: 0px 23px;
+  margin: 0px 15px;
   text-transform: capitalize;
   position: relative;
   z-index: 1;
@@ -5660,7 +5660,7 @@ ul {
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 83, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_team.scss */
   .team_member_section .single_team_member .single_team_text .team_member_social_icon a {
-    margin: 0px 10px;
+    margin: 0px 8px;
   }
 }
 
@@ -7784,7 +7784,7 @@ h1, h2, h3, h4, h5, h6 {
 /* line 2, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_footer.scss */
 .footer-area {
   background-color: #162b45;
-  padding: 100px 0px 20px;
+  padding: 5px 0px 20px;
 }
 
 @media (max-width: 991px) {
@@ -8054,7 +8054,7 @@ h1, h2, h3, h4, h5, h6 {
 .footer-area .copyright_part_text {
   border-top: 1px solid #45556a;
   padding-top: 20px;
-  margin-top: 95px;
+  margin-top: 15px;
 }
 
 /* line 199, E:/170 Kanox Agency/170_Kanox_Agency_html/sass/_footer.scss */
